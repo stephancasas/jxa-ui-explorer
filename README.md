@@ -4,7 +4,7 @@
 
 ## Screenshot
 
-<img src=".erb/img/screenshot-hero.png" width="75%" />
+<img src=".erb/img/screenshot-hero.png" width="100%" />
 
 ## Preview
 
